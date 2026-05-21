@@ -1,0 +1,28 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Local project work (keep example hub tracked)
+projects/*
+!projects/EXAMPLE-*/
+
+# Optional local analyses
+docs/
+
+# Skill scratch / handoff files (e.g. /start writes the research brief here)
+.cache/
+
+# Secrets and tokens
+*.pem
+resources/
+*_tokens.json
+
+# MCP config (use mcp.json.example as template)
+.cursor/mcp.json
+
+# Node.js (if you add frontend tooling locally)
+node_modules/
+
+# macOS
+.DS_Store

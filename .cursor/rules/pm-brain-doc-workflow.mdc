@@ -1,0 +1,10 @@
+---
+description: >-
+  PM Brain (pm-brain repo) document workflow: use 01-context and 02-templates and Cursor skills
+  in order for feature hubs under projects/PROJECT-{id}-{slug}/.
+alwaysApply: true
+---
+
+# PM Brain workflow
+
+When the user asks for a product brief, PRD, internal feature announcement (IFA), or customer support/KB article in this repo, follow the canonical workflow in **[`AGENTS.md`](../../AGENTS.md)** (*Recommended flow*) and the feature-hub / skip rules in **[`02-templates/README.md`](../../02-templates/README.md)**.

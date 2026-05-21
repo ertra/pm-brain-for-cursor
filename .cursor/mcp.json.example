@@ -1,0 +1,10 @@
+{
+  "//": "Copy this file to .cursor/mcp.json (gitignored) and replace the placeholder with the MCP servers you use. Skills in this repo reference Atlassian (Jira/Confluence) and Coda when those servers are configured — neither is required for the core doc workflow.",
+  "mcpServers": {
+    "your-server": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-example"],
+      "env": {}
+    }
+  }
+}
