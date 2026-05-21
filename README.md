@@ -35,8 +35,11 @@ pm-brain/
 ├── .cursor/
 │   ├── skills/                 # Agent skills (create-product-brief, create-prd, ...)
 │   ├── agents/                 # Subagent definitions (e.g. prd-critic)
-│   ├── commands/               # Slash commands (/start, /critique-prd, /critique-agent)
+│   ├── commands/               # Slash commands (/start, /setup, /critique-prd, /critique-agent)
 │   └── rules/                  # Always-on rules (pm-brain-doc-workflow, product-sense)
+├── .vscode/
+│   └── settings.json           # Auto-activates .venv in new Cursor terminals
+├── requirements.txt            # Optional Python scripting helpers; provisioned by /setup
 ├── PRODUCT-RULES.md            # Braindump-before-structure golden rule
 ├── AGENTS.md                   # Agent coach prompt
 └── CONTRIBUTING.md             # Skill conventions + check script
@@ -54,7 +57,7 @@ Or copy [`02-templates/context/`](02-templates/context/) into [`01-context/`](01
 
 ### 2. Open in Cursor
 
-Clone the repo and open it in [Cursor](https://cursor.com). Skills under [`.cursor/skills/`](.cursor/skills/) load automatically. Run **`/start`** to bootstrap company context — the repo has no runtime dependencies beyond Cursor itself.
+Clone the repo and open it in [Cursor](https://cursor.com). Skills under [`.cursor/skills/`](.cursor/skills/) load automatically. Run **`/start`** to bootstrap company context — the doc workflow has no runtime dependencies beyond Cursor itself. Run **`/setup`** if you also want a local Python venv for ad-hoc scripting helpers ([`requirements.txt`](requirements.txt)); it's optional and unrelated to the doc workflow.
 
 ### 3. Optional MCP
 
@@ -92,11 +95,12 @@ Create `projects/PROJECT-{id}-{slug}/` and run skills in order, or try the compa
 
 ### Slash commands
 
-| Command | Skill |
-|---------|-------|
-| `/start` | [`start`](.cursor/skills/start/SKILL.md) |
-| `/critique-prd` | [`critique-prd`](.cursor/skills/critique-prd/SKILL.md) |
-| `/critique-agent` | [`critique-agent`](.cursor/skills/critique-agent/SKILL.md) |
+| Command | Target |
+|---------|--------|
+| `/start` | [`start` skill](.cursor/skills/start/SKILL.md) |
+| `/setup` | [`.cursor/commands/setup.md`](.cursor/commands/setup.md) (inline; provisions local Python `.venv/`) |
+| `/critique-prd` | [`critique-prd` skill](.cursor/skills/critique-prd/SKILL.md) |
+| `/critique-agent` | [`critique-agent` skill](.cursor/skills/critique-agent/SKILL.md) |
 
 Doc-creation skills (`create-product-brief`, `create-prd`, etc.) are invoked by name or natural language — no slash command required.
 

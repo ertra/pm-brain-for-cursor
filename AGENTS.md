@@ -41,9 +41,12 @@ pm-brain/
 ├── .cursor/
 │   ├── skills/                 # Cursor skills (create-product-brief, create-prd, ...)
 │   ├── agents/                 # Subagent definitions (company-context-researcher, prd-critic, ...)
-│   ├── commands/               # Slash commands (/start, /critique-prd, /critique-agent)
+│   ├── commands/               # Slash commands (/start, /setup, /critique-prd, /critique-agent)
 │   ├── rules/                  # Always-on rules (pm-brain-doc-workflow, product-sense)
 │   └── mcp.json.example        # Optional MCP config template
+├── .vscode/
+│   └── settings.json           # Auto-activates .venv in new Cursor terminals (Python ext.)
+├── requirements.txt            # Optional Python scripting helpers; provisioned by /setup
 ├── AGENTS.md                   # This file — agent coach prompt
 ├── PRODUCT-RULES.md            # Braindump-before-structure golden rule
 ├── CONTRIBUTING.md             # Skill conventions + check script
@@ -75,8 +78,11 @@ Skill entrypoints: [create-product-brief/SKILL.md](.cursor/skills/create-product
 | Workflow | Cursor skill / command |
 |----------|------------------------|
 | Bootstrap company context from website | `start` / **`/start`** |
+| Provision local Python venv for scripting helpers | **`/setup`** |
 
 Subagent: [`company-context-researcher`](.cursor/agents/company-context-researcher.md) — web research only; writes a scratch brief to `.cache/start/brief.md` (gitignored), and the orchestrator maps it into `01-context/`.
+
+`/setup` is a self-contained slash command (procedure inline in [`.cursor/commands/setup.md`](.cursor/commands/setup.md), no skill). It creates `.venv/` at the repo root and installs [`requirements.txt`](requirements.txt). [`.vscode/settings.json`](.vscode/settings.json) auto-activates the venv in every new Cursor terminal when the Python extension is active (look for `(.venv)` in the prompt).
 
 ### Other repo skills (same `SKILL.md` tree)
 

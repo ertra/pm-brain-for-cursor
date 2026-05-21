@@ -1,0 +1,9 @@
+# PM-Brain scripting helpers
+# Installed into .venv/ by /setup. Unpinned on purpose: this is a low-stakes
+# tooling venv. If you need reproducibility, run `pip freeze > requirements.lock`
+# after /setup and commit the lock alongside this file.
+
+requests              # HTTP for fetching web pages / APIs
+pyyaml                # YAML parsing for configs and frontmatter blocks
+python-frontmatter    # Read/write Markdown frontmatter in 01-context/, projects/
+rich                  # Pretty terminal output (tables, progress bars, syntax)
