@@ -130,10 +130,3 @@ If your support export or call transcripts have a different shape, edit
 the matching flattener (or add a new one to `FLATTENER_REGISTRY`) and run
 the same `build_index.py` / `query.py` against your folders.
 
-## What's not included
-
-- `tests/` from the main repo (they reference paths inside `03-datasets/`).
-- `ec2/` (GPU deployment kit; only needed at production scale — see
-  `03-datasets/_tools/ec2/README.md` in the main repo).
-- `cr_tickets/` (Jira feature-request corpus is out of scope for this
-  example).
