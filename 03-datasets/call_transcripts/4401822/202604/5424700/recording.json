@@ -1,0 +1,16 @@
+{
+  "id": "5424700",
+  "type": "callRecording",
+  "attributes": {
+    "title": "Nimbus Health — Discovery call (regulated industry)",
+    "createdAt": "2026-04-15T16:00:00Z",
+    "mediaDurationSeconds": 1740,
+    "participantCount": 3,
+    "recordingUrl": "https://app.cadenza.io/recordings/5424700",
+    "participants": [
+      { "inMeetingId": 1, "displayName": "Elena Park",       "firstName": "Elena",  "type": "USER" },
+      { "inMeetingId": 2, "displayName": "Dr. Sanjay Mehta", "firstName": "Sanjay", "type": "PROSPECT" },
+      { "inMeetingId": 3, "displayName": "Carla Reyes",      "firstName": "Carla",  "type": "PROSPECT" }
+    ]
+  }
+}

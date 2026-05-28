@@ -1,0 +1,16 @@
+{
+  "id": "5443210",
+  "type": "callRecording",
+  "attributes": {
+    "title": "Initech — Q2 business review",
+    "createdAt": "2026-06-10T13:00:00Z",
+    "mediaDurationSeconds": 1620,
+    "participantCount": 3,
+    "recordingUrl": "https://app.cadenza.io/recordings/5443210",
+    "participants": [
+      { "inMeetingId": 1, "displayName": "Naomi Chen",     "firstName": "Naomi",  "type": "USER" },
+      { "inMeetingId": 2, "displayName": "Lukas Berg",     "firstName": "Lukas",  "type": "PROSPECT" },
+      { "inMeetingId": 3, "displayName": "Petra Novakova", "firstName": "Petra",  "type": "PROSPECT" }
+    ]
+  }
+}

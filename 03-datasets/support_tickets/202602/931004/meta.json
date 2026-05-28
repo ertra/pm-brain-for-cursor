@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "931004",
+  "TICKET_SUBJECT": "SSO / SAML login broken after switching IdP to Okta",
+  "TICKET_STATUS": "open",
+  "TICKET_PRIORITY": "urgent",
+  "TAG_LIST": "[\"sso\", \"saml\", \"okta\", \"support_topic_authentication\", \"agent_business_impact_p1\"]",
+  "JIRA_KEY": "DISC-1701",
+  "JIRA_STATUS": "Open",
+  "JIRA_PRIORITY": "Critical",
+  "ORGANIZATION_ID": "ORG-4400999",
+  "REQUESTER_EMAIL": "it-admin@umbrella-example.com",
+  "REQUESTER_NAME": "Daniel Mendes",
+  "ASSIGNEE_ID": "AGT-405",
+  "ASSIGNED_TO": "Olivier Bernard",
+  "GROUP_NAME": "Tier 2 Security",
+  "VIA_CHANNEL": "email",
+  "CREATED_AT": "2026-02-03T07:12:00Z",
+  "UPDATED_AT": "2026-02-03T11:55:00Z",
+  "SAT_SCORE": null
+}

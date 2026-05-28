@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "933215",
+  "TICKET_SUBJECT": "Feature request: audit log UI for admins",
+  "TICKET_STATUS": "closed",
+  "TICKET_PRIORITY": "normal",
+  "TAG_LIST": "[\"feature_request\", \"audit_log\", \"admin_ui\", \"support_topic_security\", \"crm_topic_admin\"]",
+  "JIRA_KEY": "DISC-1812",
+  "JIRA_STATUS": "Backlog",
+  "JIRA_PRIORITY": "Medium",
+  "ORGANIZATION_ID": "ORG-4400789",
+  "REQUESTER_EMAIL": "lukas.berg@initech-example.com",
+  "REQUESTER_NAME": "Lukas Berg",
+  "ASSIGNEE_ID": "AGT-221",
+  "ASSIGNED_TO": "Marek Novak",
+  "GROUP_NAME": "Tier 1 Support",
+  "VIA_CHANNEL": "web",
+  "CREATED_AT": "2026-02-18T13:44:00Z",
+  "UPDATED_AT": "2026-02-19T10:20:00Z",
+  "SAT_SCORE": 5
+}

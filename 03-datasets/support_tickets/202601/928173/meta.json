@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "928173",
+  "TICKET_SUBJECT": "Gmail extension stopped loading after Chrome update",
+  "TICKET_STATUS": "open",
+  "TICKET_PRIORITY": "normal",
+  "TAG_LIST": "[\"gmail_extension\", \"chrome\", \"support_topic_browser_extension\", \"agent_business_impact_p3\"]",
+  "JIRA_KEY": null,
+  "JIRA_STATUS": null,
+  "JIRA_PRIORITY": null,
+  "ORGANIZATION_ID": "ORG-4400123",
+  "REQUESTER_EMAIL": "anna.kovac@acme-example.com",
+  "REQUESTER_NAME": "Anna Kovac",
+  "ASSIGNEE_ID": "AGT-221",
+  "ASSIGNED_TO": "Marek Novak",
+  "GROUP_NAME": "Tier 1 Support",
+  "VIA_CHANNEL": "web",
+  "CREATED_AT": "2026-01-14T09:21:00Z",
+  "UPDATED_AT": "2026-01-14T15:42:00Z",
+  "SAT_SCORE": null
+}

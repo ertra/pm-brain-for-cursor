@@ -1,0 +1,15 @@
+{
+  "id": "5433100",
+  "type": "callRecording",
+  "attributes": {
+    "title": "Helios Energy — Competitive evaluation vs Salesloft",
+    "createdAt": "2026-05-08T14:30:00Z",
+    "mediaDurationSeconds": 1560,
+    "participantCount": 2,
+    "recordingUrl": "https://app.cadenza.io/recordings/5433100",
+    "participants": [
+      { "inMeetingId": 1, "displayName": "Tom Walker",     "firstName": "Tom",     "type": "USER" },
+      { "inMeetingId": 2, "displayName": "Markus Steiner", "firstName": "Markus",  "type": "PROSPECT" }
+    ]
+  }
+}

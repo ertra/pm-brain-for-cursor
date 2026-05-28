@@ -1,0 +1,19 @@
+{
+  "recordingId": "5428901",
+  "utterances": [
+    { "offsetMs": 0,      "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Lena Foster" },   "text": "Daniel, Hana, thanks for making the time. I want to use this hour to understand where you stand on renewal and what we can do to address the concerns you raised." },
+    { "offsetMs": 5000,   "durationMs": 6500, "speaker": { "inMeetingId": 2, "displayName": "Daniel Mendes" }, "text": "Honest answer: we're not in a great place. The SSO migration in February took two full days of business interruption, and our exec team is still asking why we didn't have an SLA on identity issues." },
+    { "offsetMs": 12000,  "durationMs": 5500, "speaker": { "inMeetingId": 3, "displayName": "Hana Dvorak" },   "text": "And we still don't have an admin audit log UI. Our security team has been asking for it for six months, and right now we maintain a separate spreadsheet to track admin changes." },
+    { "offsetMs": 18000,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Lena Foster" },   "text": "Both are fair points. On SSO, we've added the proactive Okta health check and you have a dedicated escalation line. On audit log UI, it is on the roadmap and I can connect you with the PM." },
+    { "offsetMs": 23500,  "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Daniel Mendes" }, "text": "Roadmap is good but our procurement won't sign a multi-year renewal on a promise. We need a written commitment with a target quarter." },
+    { "offsetMs": 29500,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Lena Foster" },   "text": "Let me take that back. The audit log UI is currently scoped for late this year, and I'll see if I can get a target quarter written into the renewal terms." },
+    { "offsetMs": 35000,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Hana Dvorak" },   "text": "There is also adoption. Out of our hundred and eighty users, only about ninety are active weekly. We expected closer to a hundred and forty by now." },
+    { "offsetMs": 40000,  "durationMs": 6000, "speaker": { "inMeetingId": 1, "displayName": "Lena Foster" },   "text": "I looked at the report this morning. The gap is concentrated in the EMEA team. We can run a re-enablement program for the inactive cohort and check in weekly for the next quarter." },
+    { "offsetMs": 46500,  "durationMs": 5000, "speaker": { "inMeetingId": 2, "displayName": "Daniel Mendes" }, "text": "Re-enablement helps but the underlying issue is that our reps say the workflow is slower than the previous tool for short outreach. They drop back to email." },
+    { "offsetMs": 52000,  "durationMs": 6000, "speaker": { "inMeetingId": 1, "displayName": "Lena Foster" },   "text": "I'd like to bring our product team in to listen to that feedback directly. The AI Workflow update from March cuts the number of clicks for short outreach significantly — we can demo it next week." },
+    { "offsetMs": 58500,  "durationMs": 5500, "speaker": { "inMeetingId": 3, "displayName": "Hana Dvorak" },   "text": "We're open to a demo. But to be clear, if we don't see the audit log UI commitment and a measurable improvement in adoption in the next ninety days, we will go to market." },
+    { "offsetMs": 64500,  "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Lena Foster" },   "text": "I hear you. Let me put together a written success plan with the audit log commitment, the re-enablement program, and the demo. I will send it by Friday." },
+    { "offsetMs": 69500,  "durationMs": 4000, "speaker": { "inMeetingId": 2, "displayName": "Daniel Mendes" }, "text": "Friday works. We will review it internally and reply early next week." },
+    { "offsetMs": 74000,  "durationMs": 3500, "speaker": { "inMeetingId": 1, "displayName": "Lena Foster" },   "text": "Thank you both for the candour, it really helps me focus on the right things." }
+  ]
+}

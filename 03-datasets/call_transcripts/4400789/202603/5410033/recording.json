@@ -1,0 +1,16 @@
+{
+  "id": "5410033",
+  "type": "callRecording",
+  "attributes": {
+    "title": "Initech — Onboarding kick-off",
+    "createdAt": "2026-03-12T09:00:00Z",
+    "mediaDurationSeconds": 1500,
+    "participantCount": 3,
+    "recordingUrl": "https://app.cadenza.io/recordings/5410033",
+    "participants": [
+      { "inMeetingId": 1, "displayName": "Naomi Chen",   "firstName": "Naomi",   "type": "USER" },
+      { "inMeetingId": 2, "displayName": "Lukas Berg",   "firstName": "Lukas",   "type": "PROSPECT" },
+      { "inMeetingId": 3, "displayName": "Petra Novakova", "firstName": "Petra", "type": "PROSPECT" }
+    ]
+  }
+}

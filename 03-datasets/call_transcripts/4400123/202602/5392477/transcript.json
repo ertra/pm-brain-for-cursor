@@ -1,0 +1,26 @@
+{
+  "recordingId": "5392477",
+  "utterances": [
+    { "offsetMs": 0,      "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Thanks for making the time today, Sarah and Daniel. I'd love to start by understanding what your team is hoping to get out of Cadenza this quarter." },
+    { "offsetMs": 5000,   "durationMs": 6000, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Sure. We are growing the SDR team from twelve to twenty-eight people in the next two quarters, and our current workflow in spreadsheets is going to break completely." },
+    { "offsetMs": 12000,  "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "The biggest pain is that everything ties back to Salesforce, but our reps copy and paste prospect data into emails manually, which means our CRM is always two days behind reality." },
+    { "offsetMs": 18500,  "durationMs": 4000, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Got it. So real-time CRM sync is really one of the must-haves for you." },
+    { "offsetMs": 23000,  "durationMs": 6500, "speaker": { "inMeetingId": 3, "displayName": "Daniel Pham" }, "text": "Yes, and not only the standard fields. We have about fifteen custom fields on the Account object that drive our prioritization plays, and we need those to sync both ways." },
+    { "offsetMs": 30000,  "durationMs": 5000, "speaker": { "inMeetingId": 3, "displayName": "Daniel Pham" }, "text": "Renewal risk, strategic tier, account owner region, those kinds of fields. They have to be available in Cadenza when the rep picks up the prospect." },
+    { "offsetMs": 35500,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "That is something we support out of the box. Bidirectional custom field sync on Account, Contact, Lead, and Opportunity. The setup is done by your admin in about an hour." },
+    { "offsetMs": 41500,  "durationMs": 4000, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Good. The other thing we keep tripping over is reporting. Who is doing what, what is working, who is at risk." },
+    { "offsetMs": 46000,  "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Today our managers are pulling activity data from three different systems and assembling it in spreadsheets every Friday. It's not sustainable for twenty-eight reps." },
+    { "offsetMs": 52000,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Reporting is a strong area for us. Let me share my screen and walk through the manager dashboards so you can see the kind of cuts you'll get on day one." },
+    { "offsetMs": 57500,  "durationMs": 3500, "speaker": { "inMeetingId": 3, "displayName": "Daniel Pham" }, "text": "Please. We also care a lot about call recordings. How does CallScribe handle that?" },
+    { "offsetMs": 61500,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "CallScribe records, transcribes, and summarises every call. The PM team uses those transcripts the same way you would use written tickets — searchable, taggable, and tied to the account." },
+    { "offsetMs": 67500,  "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "That's interesting. Does it work in multiple languages? About forty percent of our calls are in Portuguese." },
+    { "offsetMs": 72500,  "durationMs": 4000, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Yes, Portuguese, Spanish, French, German, and several more. The transcription quality is on par with English now." },
+    { "offsetMs": 77000,  "durationMs": 5500, "speaker": { "inMeetingId": 3, "displayName": "Daniel Pham" }, "text": "Okay. Last question for this call. We are evaluating you against Gong and Salesloft. What is the honest differentiator?" },
+    { "offsetMs": 83000,  "durationMs": 6500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Gong is strong on conversation intelligence but weak on workflow automation. Salesloft is closer to us on workflow but their reporting is shallower. We bring both together with deeper CRM bidirectional sync." },
+    { "offsetMs": 90000,  "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Fair answer. Can you send a one-pager that we can share internally before our follow-up next week?" },
+    { "offsetMs": 95000,  "durationMs": 3500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Absolutely, I'll send it today along with two reference customers in your industry." },
+    { "offsetMs": 99000,  "durationMs": 3500, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Perfect. Then let's plan a technical deep dive with our Salesforce admin next Tuesday." },
+    { "offsetMs": 103000, "durationMs": 3000, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Booked. Thanks both, talk soon." },
+    { "offsetMs": 106500, "durationMs": 2500, "speaker": { "inMeetingId": 3, "displayName": "Daniel Pham" }, "text": "Thanks Tom, appreciate the walkthrough." }
+  ]
+}

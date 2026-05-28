@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "941023",
+  "TICKET_SUBJECT": "Outbound emails going to spam after DMARC / DKIM change",
+  "TICKET_STATUS": "open",
+  "TICKET_PRIORITY": "urgent",
+  "TAG_LIST": "[\"deliverability\", \"spam\", \"dmarc\", \"dkim\", \"domain\", \"support_topic_deliverability\", \"agent_business_impact_p1\"]",
+  "JIRA_KEY": "DISC-2231",
+  "JIRA_STATUS": "Open",
+  "JIRA_PRIORITY": "Critical",
+  "ORGANIZATION_ID": "ORG-4401204",
+  "REQUESTER_EMAIL": "markus.steiner@helios-example.com",
+  "REQUESTER_NAME": "Markus Steiner",
+  "ASSIGNEE_ID": "AGT-405",
+  "ASSIGNED_TO": "Olivier Bernard",
+  "GROUP_NAME": "Tier 2 Deliverability",
+  "VIA_CHANNEL": "email",
+  "CREATED_AT": "2026-05-06T07:30:00Z",
+  "UPDATED_AT": "2026-05-06T16:45:00Z",
+  "SAT_SCORE": null
+}

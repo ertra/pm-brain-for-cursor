@@ -1,0 +1,16 @@
+{
+  "id": "5428901",
+  "type": "callRecording",
+  "attributes": {
+    "title": "Umbrella SaaS — Renewal review (at risk)",
+    "createdAt": "2026-04-22T10:00:00Z",
+    "mediaDurationSeconds": 1740,
+    "participantCount": 3,
+    "recordingUrl": "https://app.cadenza.io/recordings/5428901",
+    "participants": [
+      { "inMeetingId": 1, "displayName": "Lena Foster",   "firstName": "Lena",   "type": "USER" },
+      { "inMeetingId": 2, "displayName": "Daniel Mendes", "firstName": "Daniel", "type": "PROSPECT" },
+      { "inMeetingId": 3, "displayName": "Hana Dvorak",   "firstName": "Hana",   "type": "PROSPECT" }
+    ]
+  }
+}

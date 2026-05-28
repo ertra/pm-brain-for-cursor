@@ -1,0 +1,16 @@
+{
+  "id": "5392477",
+  "type": "callRecording",
+  "attributes": {
+    "title": "Acme Corp — Discovery call",
+    "createdAt": "2026-02-05T15:00:00Z",
+    "mediaDurationSeconds": 1815,
+    "participantCount": 3,
+    "recordingUrl": "https://app.cadenza.io/recordings/5392477",
+    "participants": [
+      { "inMeetingId": 1, "displayName": "Tom Walker", "firstName": "Tom", "type": "USER" },
+      { "inMeetingId": 2, "displayName": "Sarah Lin", "firstName": "Sarah", "type": "PROSPECT" },
+      { "inMeetingId": 3, "displayName": "Daniel Pham", "firstName": "Daniel", "type": "PROSPECT" }
+    ]
+  }
+}

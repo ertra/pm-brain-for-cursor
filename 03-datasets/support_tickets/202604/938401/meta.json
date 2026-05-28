@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "938401",
+  "TICKET_SUBJECT": "Partner integration hitting REST API rate limit on bulk pull",
+  "TICKET_STATUS": "open",
+  "TICKET_PRIORITY": "high",
+  "TAG_LIST": "[\"api\", \"rate_limit\", \"integrations\", \"partner_integration\", \"support_topic_integrations\", \"agent_business_impact_p2\"]",
+  "JIRA_KEY": "DISC-2087",
+  "JIRA_STATUS": "In Progress",
+  "JIRA_PRIORITY": "High",
+  "ORGANIZATION_ID": "ORG-4400456",
+  "REQUESTER_EMAIL": "vikram.iyer@globex-example.com",
+  "REQUESTER_NAME": "Vikram Iyer",
+  "ASSIGNEE_ID": "AGT-318",
+  "ASSIGNED_TO": "Eva Smith",
+  "GROUP_NAME": "Tier 2 Integrations",
+  "VIA_CHANNEL": "email",
+  "CREATED_AT": "2026-04-09T08:55:00Z",
+  "UPDATED_AT": "2026-04-10T13:12:00Z",
+  "SAT_SCORE": null
+}

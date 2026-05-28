@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "943298",
+  "TICKET_SUBJECT": "Manager role cannot see reports for their direct team",
+  "TICKET_STATUS": "open",
+  "TICKET_PRIORITY": "high",
+  "TAG_LIST": "[\"permissions\", \"rbac\", \"manager_view\", \"reporting\", \"bug\", \"support_topic_permissions\", \"agent_business_impact_p2\"]",
+  "JIRA_KEY": "DISC-2356",
+  "JIRA_STATUS": "In Progress",
+  "JIRA_PRIORITY": "High",
+  "ORGANIZATION_ID": "ORG-4401822",
+  "REQUESTER_EMAIL": "carla.reyes@nimbushealth-example.com",
+  "REQUESTER_NAME": "Carla Reyes",
+  "ASSIGNEE_ID": "AGT-405",
+  "ASSIGNED_TO": "Olivier Bernard",
+  "GROUP_NAME": "Tier 2 Security",
+  "VIA_CHANNEL": "email",
+  "CREATED_AT": "2026-06-03T11:00:00Z",
+  "UPDATED_AT": "2026-06-04T09:25:00Z",
+  "SAT_SCORE": null
+}

@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "939287",
+  "TICKET_SUBJECT": "iOS app crashes on save when editing a sequence",
+  "TICKET_STATUS": "open",
+  "TICKET_PRIORITY": "high",
+  "TAG_LIST": "[\"mobile\", \"ios\", \"sequences\", \"crash\", \"bug\", \"support_topic_mobile\", \"agent_business_impact_p2\"]",
+  "JIRA_KEY": "DISC-2104",
+  "JIRA_STATUS": "In Progress",
+  "JIRA_PRIORITY": "High",
+  "ORGANIZATION_ID": "ORG-4400789",
+  "REQUESTER_EMAIL": "petra.novakova@initech-example.com",
+  "REQUESTER_NAME": "Petra Novakova",
+  "ASSIGNEE_ID": "AGT-512",
+  "ASSIGNED_TO": "Hannah Lee",
+  "GROUP_NAME": "Tier 2 Product",
+  "VIA_CHANNEL": "web",
+  "CREATED_AT": "2026-04-22T10:40:00Z",
+  "UPDATED_AT": "2026-04-23T08:05:00Z",
+  "SAT_SCORE": null
+}

@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "935112",
+  "TICKET_SUBJECT": "Sequences not sending at their scheduled time",
+  "TICKET_STATUS": "open",
+  "TICKET_PRIORITY": "high",
+  "TAG_LIST": "[\"sequences\", \"scheduling\", \"timezone\", \"bug\", \"support_topic_sequences\", \"agent_business_impact_p2\"]",
+  "JIRA_KEY": "DISC-1924",
+  "JIRA_STATUS": "In Progress",
+  "JIRA_PRIORITY": "High",
+  "ORGANIZATION_ID": "ORG-4400123",
+  "REQUESTER_EMAIL": "miguel.rios@acme-example.com",
+  "REQUESTER_NAME": "Miguel Rios",
+  "ASSIGNEE_ID": "AGT-512",
+  "ASSIGNED_TO": "Hannah Lee",
+  "GROUP_NAME": "Tier 2 Product",
+  "VIA_CHANNEL": "web",
+  "CREATED_AT": "2026-03-04T16:20:00Z",
+  "UPDATED_AT": "2026-03-05T09:08:00Z",
+  "SAT_SCORE": null
+}

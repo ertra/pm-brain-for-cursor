@@ -1,0 +1,19 @@
+{
+  "recordingId": "5421188",
+  "utterances": [
+    { "offsetMs": 0,     "durationMs": 4000, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Sarah, Miguel, thanks for the time. I saw your usage report and wanted to talk about expansion before we get into quarterly review." },
+    { "offsetMs": 4500,  "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Yes, we're ready. The original twenty-eight reps are fully ramped, and we want to add another twelve seats for our APAC team in May." },
+    { "offsetMs": 10500, "durationMs": 5000, "speaker": { "inMeetingId": 3, "displayName": "Miguel Rios" }, "text": "We also want to enable the AI Workflow add-on for the existing reps. We held off in the initial deal but the feedback from peer companies has been very positive." },
+    { "offsetMs": 16000, "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Both are great signals. Twelve more seats plus AI enablement across the full thirty seats brings you to forty seats with AI." },
+    { "offsetMs": 21000, "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Right. We also need to discuss one issue that came up last week — sequences scheduled at nine in the morning Central European time were actually firing at ten after the daylight saving change." },
+    { "offsetMs": 27000, "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Yes, Miguel actually opened a ticket on that one. The fix is rolled out and we re-ran the affected schedules. Let me confirm everything looks correct now." },
+    { "offsetMs": 32500, "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Miguel Rios" }, "text": "Looking at this morning, the EMEA sequences fired at nine on the dot. Looks good." },
+    { "offsetMs": 37500, "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Excellent. Back to expansion. For the AI Workflow add-on on the original thirty seats, we can apply your enterprise discount and prorate to the existing renewal date." },
+    { "offsetMs": 43000, "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Prorate works for us. Can you also include a small bench of seats for new hire flex over the next twelve months?" },
+    { "offsetMs": 48000, "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "We can include five flex seats at zero cost for twelve months, then convert to paid if usage continues. Standard for accounts at this tier." },
+    { "offsetMs": 53000, "durationMs": 5000, "speaker": { "inMeetingId": 3, "displayName": "Miguel Rios" }, "text": "One more thing. APAC team is mostly in Singapore and Sydney. Anything we need to be aware of for those regions?" },
+    { "offsetMs": 58500, "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Both are well supported. Data residency stays in your current region unless you ask otherwise. Time zones and language settings are per-user." },
+    { "offsetMs": 63500, "durationMs": 4000, "speaker": { "inMeetingId": 2, "displayName": "Sarah Lin" },   "text": "Perfect. Send the order form by end of week and we can get this signed before the APAC start date." },
+    { "offsetMs": 68000, "durationMs": 3500, "speaker": { "inMeetingId": 1, "displayName": "Tom Walker" },  "text": "Will do. Thanks both, talk soon." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "recordingId": "5414550",
+  "utterances": [
+    { "offsetMs": 0,      "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "Sofia, Rajiv, thanks for taking the demo. Before I jump in, I want to confirm what you are hoping to walk away with today." },
+    { "offsetMs": 5000,   "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Sofia Mendez" },  "text": "Two things. First, can your platform actually run for a logistics company. We sell to freight forwarders and warehouse operators, not classic SaaS buyers." },
+    { "offsetMs": 11000,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Rajiv Kumar" },   "text": "Second, we have eight thousand prospects from our internal CRM that we need to import on day one. That cannot break or take a week." },
+    { "offsetMs": 16000,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "Both make sense. Let me start with the logistics customer story. We have three reference customers in your sector — I'll send the case studies after the call." },
+    { "offsetMs": 21500,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "On the import — we have a bulk import wizard in the UI for one-time loads and a CSV import API for repeatable jobs. Eight thousand records is well within the wizard's comfort zone." },
+    { "offsetMs": 27500,  "durationMs": 5000, "speaker": { "inMeetingId": 2, "displayName": "Sofia Mendez" },  "text": "Half of our prospects are European companies with accented characters in names — Müller, Hôtel, Plzeň. Will the import handle UTF-8 correctly?" },
+    { "offsetMs": 33000,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "Good question. The import does accept UTF-8 CSVs. The one thing to watch is that if you export from older Excel, sometimes the file ends up as Latin-1, and the wizard can misread it." },
+    { "offsetMs": 38500,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "Easiest path is to export from your CRM with a UTF-8 with BOM option, or use the API where you can specify the encoding explicitly. I'll share both flows after this." },
+    { "offsetMs": 44000,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Rajiv Kumar" },   "text": "Got it. Next question — do you integrate with our ERP, which is SAP S/4HANA? We pull account hierarchy from there." },
+    { "offsetMs": 49000,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "S/4HANA is not a native connector today, but we have a REST API and a Zapier path. Most customers run a small middleware job that syncs SAP accounts into Cadenza overnight." },
+    { "offsetMs": 55000,  "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Sofia Mendez" },  "text": "Acceptable. Show me what a typical rep day looks like in your tool." },
+    { "offsetMs": 60000,  "durationMs": 6500, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "Sharing my screen — this is the home view. Tasks for today, AI suggestions at the top, sequences in progress. The rep can also click into the inbox view to see replies and triage with one click." },
+    { "offsetMs": 67000,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Rajiv Kumar" },   "text": "Looks clean. Final question: what's the rollout timeline if we sign in three weeks?" },
+    { "offsetMs": 72000,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "Three to five weeks for a team your size. First two weeks for admin setup and import, then three weeks of phased rollout starting with one team." },
+    { "offsetMs": 77500,  "durationMs": 3500, "speaker": { "inMeetingId": 2, "displayName": "Sofia Mendez" },  "text": "That works. Send the case studies and the import guide today, please." },
+    { "offsetMs": 81500,  "durationMs": 3000, "speaker": { "inMeetingId": 1, "displayName": "Jake Reynolds" }, "text": "Will do. Thanks both, talk in a week." }
+  ]
+}

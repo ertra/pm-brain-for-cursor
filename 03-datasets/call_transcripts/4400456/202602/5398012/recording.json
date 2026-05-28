@@ -1,0 +1,16 @@
+{
+  "id": "5398012",
+  "type": "callRecording",
+  "attributes": {
+    "title": "Globex Industries — Pricing & packaging review",
+    "createdAt": "2026-02-19T13:30:00Z",
+    "mediaDurationSeconds": 1620,
+    "participantCount": 3,
+    "recordingUrl": "https://app.cadenza.io/recordings/5398012",
+    "participants": [
+      { "inMeetingId": 1, "displayName": "Olivia Park", "firstName": "Olivia", "type": "USER" },
+      { "inMeetingId": 2, "displayName": "Priya Shah",  "firstName": "Priya",  "type": "PROSPECT" },
+      { "inMeetingId": 3, "displayName": "Marek Hruby", "firstName": "Marek",  "type": "PROSPECT" }
+    ]
+  }
+}

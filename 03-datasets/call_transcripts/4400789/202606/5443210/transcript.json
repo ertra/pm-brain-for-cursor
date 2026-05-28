@@ -1,0 +1,19 @@
+{
+  "recordingId": "5443210",
+  "utterances": [
+    { "offsetMs": 0,      "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Welcome back, Lukas and Petra. We are at the three-month mark since go-live, so today is our first proper quarterly business review." },
+    { "offsetMs": 5000,   "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "I want to walk through three things: where adoption stands, what is going well, and the open issues we need to clear." },
+    { "offsetMs": 11000,  "durationMs": 5000, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "Sounds good. From our side, the overall feedback has been very positive. Our managers love the dashboards and our reps are sending three times more sequences than before." },
+    { "offsetMs": 16500,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Numbers back that up. Forty active reps, ninety percent weekly active. Meetings booked per week is up forty percent compared to your baseline before go-live." },
+    { "offsetMs": 22500,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Petra Novakova" }, "text": "The number we are most proud of is that reps complete their training in week one consistently. That was not true with the previous tool." },
+    { "offsetMs": 27500,  "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "Now the not-so-good news. We have a mobile issue. Our reps on iPhones cannot edit existing sequence steps without the app crashing on save. This started about three weeks ago." },
+    { "offsetMs": 33500,  "durationMs": 5000, "speaker": { "inMeetingId": 3, "displayName": "Petra Novakova" }, "text": "I opened a support ticket on the twenty-second of April. About a third of our reps work from mobile while travelling and they have had to switch back to laptops." },
+    { "offsetMs": 39000,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "I have an update on that. The iOS patch shipped two days ago and you should see it in TestFlight. Engineering confirmed it fixes the save crash for the sequence editor." },
+    { "offsetMs": 45000,  "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "Good. We will roll the patch out to our reps tomorrow and confirm. Thanks for the fast follow-up." },
+    { "offsetMs": 49800,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Other open items: you asked back in onboarding about more granular reporting for individual managers. We released that last month — manager dashboard with team filter, exportable to CSV." },
+    { "offsetMs": 55500,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Petra Novakova" }, "text": "We've started using it. The CSV export is what our regional VP was asking for. Big unblock." },
+    { "offsetMs": 60500,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Looking ahead, we'd love your input on the AI Workflow update. We have a closed beta coming up and you've been thoughtful customers — would you be open to participating?" },
+    { "offsetMs": 66000,  "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "We would. Send the details and we will nominate three reps and one manager to join the beta." },
+    { "offsetMs": 70800,  "durationMs": 3500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Excellent. I'll send the QBR deck and beta info this afternoon." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "TICKET_ID": "928420",
+  "TICKET_SUBJECT": "Salesforce sync failing on custom fields",
+  "TICKET_STATUS": "pending",
+  "TICKET_PRIORITY": "high",
+  "TAG_LIST": "[\"salesforce\", \"custom_fields\", \"sync_error\", \"support_topic_integrations\", \"agent_business_impact_p2\"]",
+  "JIRA_KEY": "DISC-1538",
+  "JIRA_STATUS": "In Progress",
+  "JIRA_PRIORITY": "High",
+  "ORGANIZATION_ID": "ORG-4400456",
+  "REQUESTER_EMAIL": "priya.shah@globex-example.com",
+  "REQUESTER_NAME": "Priya Shah",
+  "ASSIGNEE_ID": "AGT-318",
+  "ASSIGNED_TO": "Eva Smith",
+  "GROUP_NAME": "Tier 2 Integrations",
+  "VIA_CHANNEL": "email",
+  "CREATED_AT": "2026-01-22T14:05:00Z",
+  "UPDATED_AT": "2026-01-26T08:11:00Z",
+  "SAT_SCORE": null
+}

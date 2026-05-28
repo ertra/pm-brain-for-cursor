@@ -1,0 +1,23 @@
+{
+  "recordingId": "5398012",
+  "utterances": [
+    { "offsetMs": 0,      "durationMs": 4000, "speaker": { "inMeetingId": 1, "displayName": "Olivia Park" }, "text": "Hi Priya, hi Marek, thanks for joining. The goal today is to walk through the proposal and answer any pricing questions before procurement gets involved." },
+    { "offsetMs": 4500,   "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Priya Shah" },  "text": "Sounds good. We had a long internal discussion yesterday and there are three things we want to push back on." },
+    { "offsetMs": 9500,   "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Priya Shah" },  "text": "First, the per-seat list price is about twenty percent higher than what we are paying our incumbent today. We need a clear story for our CFO on why this is worth it." },
+    { "offsetMs": 15500,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Olivia Park" }, "text": "Understood. The short story is that our average customer in your segment sees twenty-five percent more pipeline per rep within six months. I'll send the case study." },
+    { "offsetMs": 20800,  "durationMs": 6000, "speaker": { "inMeetingId": 3, "displayName": "Marek Hruby" }, "text": "Second concern: the AI Workflow add-on is a separate line item. We were assuming it was included, because that's how Gong packages their conversation AI." },
+    { "offsetMs": 27000,  "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Olivia Park" }, "text": "We split it because not every customer uses it on day one. For your team size we can bundle it into the Enterprise tier with a reduced uplift, around twelve percent." },
+    { "offsetMs": 31800,  "durationMs": 5500, "speaker": { "inMeetingId": 2, "displayName": "Priya Shah" },  "text": "Twelve is still a lot. Procurement will benchmark against Gong and Salesloft and they will ask why we are paying for AI on top of the platform fee." },
+    { "offsetMs": 37500,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Olivia Park" }, "text": "The honest answer is that our AI is genuinely tied into the workflow. Once Marek's SDRs use it for a week, it would be very hard to walk back. But I hear you on the optics." },
+    { "offsetMs": 42800,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Marek Hruby" }, "text": "Third concern: implementation services. Eighteen thousand for setup is steep. Can we reduce that scope?" },
+    { "offsetMs": 47500,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Olivia Park" }, "text": "Yes. If you nominate two strong admins from your side and commit to a four-week implementation, we can drop services to nine thousand and keep the same go-live date." },
+    { "offsetMs": 53200,  "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Priya Shah" },  "text": "That feels more like it. Let's say nine thousand on services and a twelve percent uplift on Enterprise with AI included. What's the per-seat price then?" },
+    { "offsetMs": 58000,  "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Olivia Park" }, "text": "Effective per-seat would be about one hundred forty-six dollars per month on a three-year commit, paid annually." },
+    { "offsetMs": 62800,  "durationMs": 4000, "speaker": { "inMeetingId": 3, "displayName": "Marek Hruby" }, "text": "Three years is a long commitment. Can we do two years with a renewal option?" },
+    { "offsetMs": 67000,  "durationMs": 5000, "speaker": { "inMeetingId": 1, "displayName": "Olivia Park" }, "text": "We can do two years at one hundred fifty-two, or three years at one hundred forty-six. The savings on a three-year start to add up across forty seats." },
+    { "offsetMs": 72500,  "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Priya Shah" },  "text": "Got it. We will discuss internally and come back by end of week. Can you put the two-year and three-year options side by side?" },
+    { "offsetMs": 77500,  "durationMs": 3500, "speaker": { "inMeetingId": 1, "displayName": "Olivia Park" }, "text": "Will do, I'll send the updated proposal tomorrow morning." },
+    { "offsetMs": 81500,  "durationMs": 3000, "speaker": { "inMeetingId": 2, "displayName": "Priya Shah" },  "text": "Perfect. Thanks Olivia, talk soon." },
+    { "offsetMs": 85000,  "durationMs": 2500, "speaker": { "inMeetingId": 3, "displayName": "Marek Hruby" }, "text": "Thanks, appreciate the flexibility on services." }
+  ]
+}

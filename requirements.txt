@@ -3,7 +3,13 @@
 # tooling venv. If you need reproducibility, run `pip freeze > requirements.lock`
 # after /setup and commit the lock alongside this file.
 
-requests              # HTTP for fetching web pages / APIs
+requests>=2.28        # HTTP for fetching web pages / APIs + dataset tooling
 pyyaml                # YAML parsing for configs and frontmatter blocks
 python-frontmatter    # Read/write Markdown frontmatter in 01-context/, projects/
 rich                  # Pretty terminal output (tables, progress bars, syntax)
+numpy>=1.24,<2                       # Dataset indexing/query math
+torch>=2.2,<2.4                      # Local embedding runtime (pin to <2.4 to match HF stack below)
+sentence-transformers>=2.7,<5        # Embedding models for dataset pipeline
+transformers>=4.40,<5                # HF model backend (v5 requires torch>=2.4; keep v4 line)
+huggingface_hub>=0.20,<1             # transformers 4.x + sentence-transformers 4.x expect hub <1
+einops>=0.7                          # Tensor ops required by embedding stack

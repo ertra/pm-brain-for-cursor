@@ -1,0 +1,21 @@
+{
+  "recordingId": "5410033",
+  "utterances": [
+    { "offsetMs": 0,      "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Welcome to your onboarding kick-off. Today we want to align on milestones for the next thirty, sixty, and ninety days so the rollout is smooth." },
+    { "offsetMs": 5000,   "durationMs": 4000, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "Sounds good. Just to set context: we have forty reps across two regions and we need to move quickly because our existing tool contract ends in May." },
+    { "offsetMs": 9500,   "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Petra Novakova" }, "text": "Our biggest worry is data migration. We have about three years of historical sequence and call data we don't want to lose." },
+    { "offsetMs": 14500,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Understood. The good news is we have a documented migration template for your incumbent. We'll bring your sequence templates, prospect lists, and call history in." },
+    { "offsetMs": 20500,  "durationMs": 4500, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "Excellent. What about user permissions? Today we have very granular role-based access that took us a year to design." },
+    { "offsetMs": 25500,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Our role and permission model can mirror what you have. We will sit down with Petra in week two and configure roles, profiles, and team hierarchies before we onboard reps." },
+    { "offsetMs": 31500,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Petra Novakova" }, "text": "Sounds doable. One more concern: SSO. We are on Okta and we had a painful experience setting up SAML with our previous tool." },
+    { "offsetMs": 36500,  "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Okta is well supported. We have a step-by-step guide and most customers go live with SSO in about forty minutes once the IdP metadata is exchanged." },
+    { "offsetMs": 41500,  "durationMs": 4000, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "Great. Let's talk about training. What does the rep enablement look like?" },
+    { "offsetMs": 46000,  "durationMs": 6000, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "We offer a three-session live track for reps, a manager track for your team leads, and an admin track for Petra and one backup admin. All recorded for new hires later." },
+    { "offsetMs": 52500,  "durationMs": 4500, "speaker": { "inMeetingId": 3, "displayName": "Petra Novakova" }, "text": "Perfect. Can we get the admin track first so we are ready when reps come on board?" },
+    { "offsetMs": 57500,  "durationMs": 4500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Yes, admin track runs in week one and two. Manager and rep tracks then run in weeks three to five." },
+    { "offsetMs": 62500,  "durationMs": 5000, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "Last thing from me: how do we measure success at the end of ninety days? We need clear numbers we can show our exec sponsor." },
+    { "offsetMs": 68000,  "durationMs": 5500, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Three primary metrics: time to first sequence send per rep, number of active sequences per rep, and meetings booked per week. I'll send a template scorecard tomorrow." },
+    { "offsetMs": 73800,  "durationMs": 4000, "speaker": { "inMeetingId": 2, "displayName": "Lukas Berg" },     "text": "Wonderful. I think we have everything we need to kick off. Thanks Naomi." },
+    { "offsetMs": 78000,  "durationMs": 3000, "speaker": { "inMeetingId": 1, "displayName": "Naomi Chen" },     "text": "Thanks both, talk Friday at the first checkpoint." }
+  ]
+}

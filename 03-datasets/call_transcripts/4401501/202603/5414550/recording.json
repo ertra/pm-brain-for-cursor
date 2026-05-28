@@ -1,0 +1,16 @@
+{
+  "id": "5414550",
+  "type": "callRecording",
+  "attributes": {
+    "title": "Quantum Logistics — First demo",
+    "createdAt": "2026-03-18T15:00:00Z",
+    "mediaDurationSeconds": 1680,
+    "participantCount": 3,
+    "recordingUrl": "https://app.cadenza.io/recordings/5414550",
+    "participants": [
+      { "inMeetingId": 1, "displayName": "Jake Reynolds", "firstName": "Jake",  "type": "USER" },
+      { "inMeetingId": 2, "displayName": "Sofia Mendez",  "firstName": "Sofia", "type": "PROSPECT" },
+      { "inMeetingId": 3, "displayName": "Rajiv Kumar",   "firstName": "Rajiv", "type": "PROSPECT" }
+    ]
+  }
+}
